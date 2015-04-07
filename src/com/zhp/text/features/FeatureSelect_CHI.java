@@ -12,6 +12,7 @@ import com.zhp.text.model.FeatureStatsInfo;
  * 
  */
 public class FeatureSelect_CHI {
+	
 	private FeatureStatsInfo stats;
 	// 按CHI值从大到小的顺序保存选择的特征
 	private List<String> featureList = new LinkedList<>();
